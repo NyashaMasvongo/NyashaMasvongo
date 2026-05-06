@@ -10,3 +10,12 @@
 🌱 Led a team of 7 in Automated Irrigation System capstone  
 📫 **masvongon@africau.edu** | [LinkedIn](your-linkedin-url)
 -->
+---
+
+## 🚀 My Projects
+
+| Project | Description |
+|---------|-------------|
+| **Smart Sprout** | Automated Irrigation System using Python and SQL |
+| **Fast Track AI** | AI-based prediction system with Python + HTML/CSS |
+| **Fleet Management** | Deployment lead using GitHub for version control |
